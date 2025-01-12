@@ -1,4 +1,4 @@
-package com.example.teachertask;
+package com.example.teachertask.jwt;
 
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
